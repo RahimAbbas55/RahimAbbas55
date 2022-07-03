@@ -5,6 +5,7 @@
 - 📫 How to reach me:
 - Gmail: rahim.sindhu17@gmail.com
 - Instagram: irahimabbas01
+- Yahoo: rahim.abbas27@yahoo.com
 
 <!---
 RahimAbbas55/RahimAbbas55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
