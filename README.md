@@ -10,7 +10,7 @@
 ## I'm a student, currently pursuing my bachelors in Software Engineering
 - I spent my most of time developing proficiency in programming and learning new technologies.
 - I am a game enthusiast.I listen to lots of Music.
-- My favourite fictional characters are <a href="https://marvelcinematicuniverse.fandom.com/wiki/Spider-Man">Groot</a> <a href="https://marvelcinematicuniverse.fandom.com/wiki/Iron Man">,Moon Knight</a> 
+- My favourite fictional characters are <a href="https://marvelcinematicuniverse.fandom.com/wiki/Spider-Man">Spider-Man</a> <a href="https://marvelcinematicuniverse.fandom.com/wiki/Iron Man">Iron Man</a> 
 
 
 ### Connect with me: 
