@@ -14,7 +14,7 @@
 
 
 ### Connect with me: 
-[![instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)](instagram.com/irahimabbas01/?hl=en)
+[![instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)]((https://www.instagram.com/rahim_a404/?next=%2F)
 
 ### Languages & Tools:
 
