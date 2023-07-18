@@ -1,37 +1,27 @@
-- 👋 Hi, I’m @RahimAbbas55
-- 👀 I’m interested in C++,Python.
-- 🌱 I’m currently learning C++ and Python.
-- 💞️ I’m looking to collaborate on any projects involving C++ and Python.
-- 📫 How to reach me:
-- Gmail: irahimsindhu@gmail.com
-- Instagram: rahim_a404
-- Yahoo: rahim.abbas27@yahoo.com
-
-## I'm a student, currently pursuing my bachelors in Software Engineering
-- I spent my most of time developing proficiency in programming and learning new technologies.
-- I am a game enthusiast.I listen to lots of Music.
-- My favourite fictional characters are <a href="https://marvelcinematicuniverse.fandom.com/wiki/Spider-Man">Spider-Man</a>, <a href="https://marvelcinematicuniverse.fandom.com/wiki/Iron Man">Iron Man</a> 
+# 💫 About Me:
+I'm currently working on my Bachelor's Degree from FAST NUCES Lahore, Pakistan. I'm enthusiastic and hard-working person who is open to any viable and new ideas related to programing. I'm open to work projects on C++, Python , Java , Swift & Swift UI.<br>
 
 
-### Connect with me: 
-[![instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)]((https://www.instagram.com/rahim_a404/?next=%2F)
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Rahim Abbas Sindhu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahim_a404) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rahim Abbas) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/NotSypher404) 
 
-### Languages & Tools:
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RahimAbbas55&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RahimAbbas55&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RahimAbbas55&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[<img align="left" width="26px" src="https://seeklogo.com/images/V/visual-studio-code-logo-43C3AC9C08-seeklogo.com.png" />]
-[<img align="left" width="26px" src="https://w7.pngwing.com/pngs/192/492/png-transparent-git-bash-hd-logo-thumbnail.png"/>]
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RahimAbbas55&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-[<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"/>]
-[<img align="left" width="26px" src="https://cdn4.vectorstock.com/i/1000x1000/40/18/outline-object-oriented-programming-icon-isolated-vector-28254018.jpg"/>]
-[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"/>]
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=RahimAbbas55&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## GitHub Statistics
-![ RahimAbbas55's github stats](https://github-readme-stats.vercel.app/apiusername=RahimAbbas55&hide=issues,contribs&count_private=true&layout=compact&theme=cobalt)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahimAbbas55&langs_count=10&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-<br />
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
-<!---
-RahimAbbas55/RahimAbbas55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+[![](https://visitcount.itsvg.in/api?id=RahimAbbas55&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
