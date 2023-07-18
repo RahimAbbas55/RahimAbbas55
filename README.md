@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning C++ and Python.
 - 💞️ I’m looking to collaborate on any projects involving C++ and Python.
 - 📫 How to reach me:
-- Gmail: rahim.sindhu27@gmail.com
-- Instagram: irahimabbas01
+- Gmail: irahimsindhu@gmail.com
+- Instagram: rahim_a404
 - Yahoo: rahim.abbas27@yahoo.com
 
 ## I'm a student, currently pursuing my bachelors in Software Engineering
