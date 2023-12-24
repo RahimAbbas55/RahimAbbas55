@@ -7,7 +7,7 @@ I'm currently working on my Bachelor's Degree from FAST NUCES Lahore, Pakistan. 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahim_a404) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahim-abbas-b5520b258/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/NotSypher404) 
 
-# 💻 Tech Stack:
+# 💻 Languages & Tools:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
@@ -15,10 +15,7 @@ I'm currently working on my Bachelor's Degree from FAST NUCES Lahore, Pakistan. 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 	
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Firebase](https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg)
-![MySQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg)
-![HTML](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)
-![CSS](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RahimAbbas55&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RahimAbbas55&theme=dark&hide_border=false)<br/>
