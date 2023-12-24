@@ -17,7 +17,7 @@ I'm currently working on my Bachelor's Degree from FAST NUCES Lahore, Pakistan. 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Firebase](https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg)
 ![MySQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg)
-![HTML](https://img.shields.io/w3c-validation/:parser)
+![HTML](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)
 ![CSS](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RahimAbbas55&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
