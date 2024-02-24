@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my Bachelor's Degree from FAST NUCES Lahore, Pakistan. I'm enthusiastic and hard-working person who is open to any viable and new ideas related to programing. I'm open to work projects on C++, Python , Java , Swift & Swift UI.<br>
+I'm currently doing my Bachelor's Degree from FAST NUCES Lahore, Pakistan. I'm enthusiastic and hard-working person who is open to any viable and new ideas related to programing. I'm open to work projects on C++, Python , Java , Swift, Swift UI & Node Js.<br>
 
 
 ## 🌐 Socials:
