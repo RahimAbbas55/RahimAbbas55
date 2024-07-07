@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently doing my Bachelor's Degree from FAST NUCES Lahore, Pakistan. I'm enthusiastic and hard-working person who is open to any viable and new ideas related to programing. I'm open to work projects on C++, Python , Java , Swift, Swift UI & Node Js.<br>
+In the culminating year of my Computer Science journey, I am an ardent enthusiast specializing in Web Development, AI, Mobile Development. With a voracious appetite for knowledge, I delve into the intricacies of each discipline, weaving a rich tapestry of skills. This multidimensional approach not only reflects my passion for cutting-edge technologies but also positions me as a dynamic individual poised to navigate and contribute to the ever-evolving landscape of the digital era.<br>
 
 
 ## 🌐 Socials:
@@ -20,6 +20,8 @@ I'm currently doing my Bachelor's Degree from FAST NUCES Lahore, Pakistan. I'm e
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 # 📊 GitHub Stats:
