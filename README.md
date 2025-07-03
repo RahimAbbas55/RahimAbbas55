@@ -1,7 +1,11 @@
 # 💫 About Me:
 Hello Everyone,
-My name is Rahim and I'm a full-stack web and mobile developer developing projects in MERN Stack, NextJs & React Native (Expo + CLI). Along with this, I'm also an AI Automation expert using N8N where I automate numerous workflows using no code approach. In my free time, I solve questions from leetcode. 
+My name is Rahim and I'm a full-stack web and mobile developer developing projects in MERN Stack, NextJs & React Native (Expo + CLI).
+
+Along with this, I'm also an AI Automation expert using N8N where I automate numerous workflows using no code approach. In my free time, I solve questions from leetcode. 
+
 Feel Free to contact me if you want to collaborate on any project or need any help in coding. 
+
 Happy Coding!
 <br>
 
