@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hey there! I'm Rahim<br>
 I'm a full-stack web & mobile developer who spends way too much time talking to APIs and convincing React Native to behave. I build things using MERN, Next.js, and React Native (Expo + CLI) — basically anything JavaScript touches, I'm in.<br>
+
 ⚡ AI Automation Wizard (n8n edition)
 When I'm not coding, I'm busy automating anything that moves (and a few things that shouldn’t). If it can be automated in n8n, chances are I’ve already built a workflow for it.
 
