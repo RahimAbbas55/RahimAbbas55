@@ -264,10 +264,7 @@ Relevant Courses: Data Structures, Algorithms, Object Oriented Programming, Data
 
 ## 💻 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-your--handle-2F1F4C?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-your--handle-2F1F4C?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46)](https://www.geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-your--handle-2F1F4C?style=for-the-badge&logo=hackerrank&logoColor=00EA64)](https://www.hackerrank.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-your--handle-2F1F4C?style=for-the-badge&logo=codechef&logoColor=5B4638)](https://www.codechef.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-your--handle-2F1F4C?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/user6970QR/)
 
 ---
 
@@ -282,13 +279,6 @@ Relevant Courses: Data Structures, Algorithms, Object Oriented Programming, Data
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahimAbbas55&theme=radical&hide_border=true&bg_color=0f0524&title_color=a78bfa&text_color=e9d5ff&layout=compact&include_all_commits=true&count_private=true)
 
 </div>
-
-> **Why these sometimes don't render:** the public `github-readme-stats.vercel.app` demo server is shared by everyone on GitHub and frequently gets rate-limited or goes down (this is a widely-reported, ongoing issue — not something wrong in this file). For a reliable, always-up version, self-host your own free copy:
-> 1. Fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-> 2. Import the fork into [Vercel](https://vercel.com) (free tier)
-> 3. In the Vercel project settings, add an environment variable `PAT_1` set to a [GitHub personal access token](https://github.com/settings/tokens) (no expiration, `repo` scope) — this raises your rate limit massively
-> 4. Vercel gives you a URL like `your-project.vercel.app` — swap that in for `github-readme-stats.vercel.app` in the badge URLs above
-> The streak-stats badge above already uses `streak-stats.demolab.com`, a more stable mirror, so it should be more reliable than the default `.vercel.app` one.
 
 ---
 
