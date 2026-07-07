@@ -269,7 +269,7 @@ Relevant Courses: Data Structures, Algorithms, Object Oriented Programming, Data
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahimAbbas55&theme=radical&hide_border=true&bg_color=0f0524&title_color=a78bfa&icon_color=7c3aed&text_color=e9d5ff&include_all_commits=true&count_private=true)
+![Profile Metrics](https://raw.githubusercontent.com/RahimAbbas55/RahimAbbas55/main/metrics.svg)
 
 ![Streak Stats](https://streak-stats.demolab.com/?user=RahimAbbas55&theme=radical&hide_border=true&background=0f0524&stroke=7c3aed&ring=a78bfa&fire=c4b5fd&currStreakLabel=e9d5ff)
 
@@ -286,16 +286,6 @@ Relevant Courses: Data Structures, Algorithms, Object Oriented Programming, Data
 ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRahimAbbas55&query=%24.public_repos&label=Public%20Repos&color=7c3aed&style=for-the-badge&labelColor=1e1033)
 ![Followers](https://img.shields.io/github/followers/RahimAbbas55?style=for-the-badge&color=6d28d9&labelColor=1e1033&label=Followers)
 ![Account Age](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRahimAbbas55&query=%24.created_at&label=Joined%20GitHub&color=a78bfa&style=for-the-badge&labelColor=1e1033)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RahimAbbas55&theme=react-dark&bg_color=0f0524&color=a78bfa&line=7c3aed&point=e9d5ff&area=true&hide_border=true)
 
 </div>
 
