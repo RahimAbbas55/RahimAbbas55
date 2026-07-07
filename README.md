@@ -261,7 +261,7 @@ Relevant Courses: Data Structures, Algorithms, Object Oriented Programming, Data
 
 ## 💻 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Rahim-Abbas-Sindhu-2F1F4C?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/user6970QR/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Rahim_Abbas_Sindhu-2F1F4C?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/user6970QR/)
 
 ---
 
@@ -279,7 +279,7 @@ Relevant Courses: Data Structures, Algorithms, Object Oriented Programming, Data
 
 <div align="center">
 
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRahimAbbas55&query=%24.public_repos&label=Public%20Repos&color=7c3aed&style=for-the-badge&labelColor=1e1033)
+![Public Repos](https://img.shields.io/badge/Public_Repos-View_on_GitHub-7c3aed?style=for-the-badge&labelColor=1e1033)
 ![Followers](https://img.shields.io/github/followers/RahimAbbas55?style=for-the-badge&color=6d28d9&labelColor=1e1033&label=Followers)
 ![Account Age](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRahimAbbas55&query=%24.created_at&label=Joined%20GitHub&color=a78bfa&style=for-the-badge&labelColor=1e1033)
 
