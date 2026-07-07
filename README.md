@@ -261,7 +261,7 @@ Relevant Courses: Data Structures, Algorithms, Object Oriented Programming, Data
 
 ## 💻 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-your--handle-2F1F4C?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/user6970QR/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Rahim-Abbas-Sindhu-2F1F4C?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/user6970QR/)
 
 ---
 
