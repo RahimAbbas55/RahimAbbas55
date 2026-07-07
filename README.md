@@ -327,6 +327,8 @@ Open To:
 
 <div align="center">
 
+*"Writing code that the future me will definitely debug for hours!"*
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4c1d95,100:0f0524&height=120&section=footer)
 
 </div>
