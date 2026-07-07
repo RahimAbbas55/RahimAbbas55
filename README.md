@@ -8,14 +8,14 @@
 
 <br/>
 
-![Location](https://img.shields.io/badge/📍_Location-Gujranwala%2C_Pakistan-4c1d95?style=for-the-badge&labelColor=1e1033)
-![Degree](https://img.shields.io/badge/🎓_Focus-Software_Engineering-6d28d9?style=for-the-badge&labelColor=1e1033)
+![Location](https://img.shields.io/badge/📍_Location-Lahore%2C_Pakistan-4c1d95?style=for-the-badge&labelColor=1e1033)
+![Degree](https://img.shields.io/badge/🎓_BS_Software_Engineering-FAST_NUCES-6d28d9?style=for-the-badge&labelColor=1e1033)
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahim-abbas-b5520b258/)
-[![Email](https://img.shields.io/badge/Email-5b21b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-5b21b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irahimsindhu@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahimAbbas55)
 [![X](https://img.shields.io/badge/X-3b0764?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/NotSypher101)
 
@@ -31,56 +31,68 @@
 
 ## 💜 About Me
 
-I'm a **full-stack web & mobile developer** who spends way too much time talking to APIs and convincing React Native to behave. I build with **MERN, Next.js, and React Native (Expo + CLI)** — basically anywhere JavaScript reaches, I'm there.
+I'm a **Full Stack Software Engineer** with 2+ years of professional experience (since Jun 2024) designing and shipping web applications using **Laravel, React, Node.js, and Java** across the full SDLC. Track record of building production RESTful APIs, scalable data pipelines, and responsive user interfaces across SaaS, publishing, and enterprise domains.
 
-- 🔭 Engineering full-stack products end-to-end — from schema design to pixel-perfect UI
+- 🔭 Comfortable across the entire stack — from database schema design and backend logic to React frontends, CI/CD, and cloud deployment
 - ⚡ **AI Automation Architect** — if it can be automated in **n8n**, I've probably already built the workflow
 - 🧠 Sharpening problem-solving with **LeetCode** in my free time (and occasionally losing)
-- 🎯 Product-engineering mindset: I care about shipping things that actually work for real users
+- 🎯 BS Software Engineering graduate from FAST-NUCES, Lahore
 - 🤝 Always open to interesting collaborations and automation challenges
 
-**Open To:** Full-Stack Roles · Mobile App Development · AI/Automation Consulting · Freelance Collaborations
+**Open To:** Full-Stack Roles · Backend Engineering · Mobile App Development · AI/Automation Consulting · Freelance Collaborations
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Backend**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-000000?style=flat-square&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-4c1d95?style=flat-square)
 
 **Frontend**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat-square&logo=chakraui&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
+![Pug](https://img.shields.io/badge/Pug-FFF?style=flat-square&logo=pug&logoColor=A86454)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
-**Backend & Databases**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+
+**Architecture & Testing**
+![OOP](https://img.shields.io/badge/OOP-4c1d95?style=flat-square)
+![MVC](https://img.shields.io/badge/MVC-4c1d95?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID-4c1d95?style=flat-square)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
 
 **Cloud, DevOps & Tooling**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![OAuth](https://img.shields.io/badge/OAuth_2.0-4c1d95?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ---
@@ -90,129 +102,148 @@ I'm a **full-stack web & mobile developer** who spends way too much time talking
 | Domain | Proficiency | Details |
 |---|:---:|---|
 | Workflow Automation (n8n) | ⭐⭐⭐⭐⭐ | Designing multi-step automations connecting APIs, webhooks, and third-party services |
-| Data & ML Foundations | ⭐⭐⭐☆☆ | TensorFlow, PyTorch, scikit-learn, Keras for applied experimentation |
-| Data Analysis | ⭐⭐⭐⭐☆ | Pandas, NumPy, Matplotlib for data wrangling and visualization |
-| Computer Vision | ⭐⭐⭐☆☆ | OpenCV-based image processing workflows |
+| AI-Integrated Backend Systems | ⭐⭐⭐⭐☆ | Built BizLaunch Suite — a Node.js/Supabase backend handling concurrent OpenAI API requests with low latency |
+| ML Foundations | ⭐⭐⭐☆☆ | Completed Udemy's Machine Learning A-Z (2026): ML, DL & AI with AWS, Python & R |
 
 ---
 
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🔹 Wild Oasis — Full-Stack Website (Next.js)</b></summary>
+<summary><b>🔹 BizLaunch Suite — AI SaaS Platform</b></summary>
 
-A full-stack booking/management web app built with Next.js, covering both the customer-facing site and an internal dashboard.
+An AI-powered SaaS platform for launching businesses, built on Next.js with a Supabase-backed serverless architecture.
 
 | Aspect | Detail |
 |---|---|
-| Stack | Next.js, React, Node.js |
-| Repository | [View Repo](https://github.com/RahimAbbas55/Wild-Oasis-Full-Stack-Website-Using-Next-Js) |
-
-*Add your own scale, performance, and impact notes here.*
+| Stack | Next.js, Node.js, Supabase, OpenAI API |
+| Performance | Scalable Node.js backend + serverless Supabase Edge Functions handling concurrent AI-driven requests with low-latency responses |
+| Security | JWT-based authentication following OAuth 2.0 standards |
+| Year | 2025 |
 
 </details>
 
 <details>
-<summary><b>🔹 Wild Oasis — React Native Companion App</b></summary>
+<summary><b>🔹 Distributed Task Scheduler</b></summary>
 
-The mobile counterpart to the Wild Oasis platform, built with React Native.
+A distributed task scheduling system built for persistent, efficient task management at scale.
 
 | Aspect | Detail |
 |---|---|
-| Stack | React Native (Expo) |
-| Repository | [View Repo](https://github.com/RahimAbbas55/Wild-Oasis-RN) |
-
-*Add your own scale, performance, and impact notes here.*
+| Stack | Node.js, Redis, PostgreSQL |
+| Architecture | Redis sorted sets used as priority queues; PostgreSQL with indexing for persistent, queryable task storage |
+| Year | 2024 |
 
 </details>
 
 <details>
-<summary><b>🔹 Natours — Node.js, Express & MongoDB</b></summary>
+<summary><b>🔹 Smart Carpool Platform (Final Year Project)</b></summary>
 
-A tour-booking website built on the classic Node/Express/MongoDB stack, covering REST APIs, auth, and server-rendered views.
-
-| Aspect | Detail |
-|---|---|
-| Stack | Node.js, Express, MongoDB, Pug |
-| Repository | [View Repo](https://github.com/RahimAbbas55/Natours-Website-Using-Node-JS-Express-and-MongoDB) |
-
-*Add your own scale, performance, and impact notes here.*
-
-</details>
-
-<details>
-<summary><b>🔹 Smart Carpool</b></summary>
-
-A carpooling application project.
+A full-stack carpooling web and mobile application — ride matching, geolocation, and real-time sync across platforms.
 
 | Aspect | Detail |
 |---|---|
-| Stack | JavaScript |
+| Stack | Node.js, Express, MongoDB, Firebase, React Native |
+| Features | RESTful APIs for ride matching, user management, and real-time push notifications via WebSockets; MongoDB schemas optimized for geospatial queries |
+| Integration | Firebase for real-time data sync and auth, enabling seamless cross-platform sessions on the React Native client |
 | Repository | [View Repo](https://github.com/RahimAbbas55/Smart-Carpool) |
-
-*Add your own scale, performance, and impact notes here.*
+| Year | 2024–2025 |
 
 </details>
 
 <details>
-<summary><b>🔹 LeetCode Solutions</b></summary>
+<summary><b>🔹 Natours — Full Stack Tour Booking Platform</b></summary>
 
-An ongoing collection of solved LeetCode problems, showcasing consistent algorithmic practice.
+A full-stack MVC tour-booking application with role-based access and payment processing.
 
 | Aspect | Detail |
 |---|---|
-| Stack | JavaScript |
-| Repository | [View Repo](https://github.com/RahimAbbas55/LeetCode-Solutions) |
+| Stack | Node.js, Express.js, MongoDB, Pug, Stripe API |
+| Security | JWT auth, role-based access control (user, guide, lead-guide, admin), rate limiting, XSS protection, data sanitization (helmet, xss-clean, hpp) |
+| Features | Stripe payment integration for bookings, image upload/processing via Multer and Sharp |
+| Data | MongoDB schemas for Users, Tours, Reviews, and Bookings via Mongoose, deployed on MongoDB Atlas |
+| Repository | [View Repo](https://github.com/RahimAbbas55/Natours-Website-Using-Node-JS-Express-and-MongoDB) |
+| Year | 2024 |
 
 </details>
 
-> These are pulled from your pinned repos. Fill in the Scale / Performance / Security / Impact rows with real numbers where you have them — I left them open rather than inventing metrics.
+> All personal and academic projects are available at [github.com/RahimAbbas55](https://github.com/RahimAbbas55).
 
 ---
 
 ## 💼 Experience
 
-**[Job Title] · [Company Name]**
-*[Month Year] – [Month Year / Present]*
+**Software Engineer · Ethizo**
+*Mar 2026 – Present*
 
-Professional description of your role and focus area.
+Building full-stack web application features spanning the entire request lifecycle, from RESTful API logic to rendered UI.
 
-- Scope of work bullet point one
-- Scope of work bullet point two
-- Scope of work bullet point three
+- Independently designed and implemented a complete user comment system end-to-end — Laravel REST endpoints, database schema, Phinx migrations, and a fully functional React frontend
+- Contributed to a patient encounters module, building and integrating React components into an existing multi-page frontend application
+- Authored and managed Phinx database migration scripts for schema changes, resolving duplicate migration conflicts and ensuring safe rollouts across environments
+- Translated detailed functional specifications into application logic, implementing complex business rules with clearly defined inclusion/exclusion criteria in Laravel
+- Worked within an Agile/Scrum team — sprint planning, daily standups, code reviews, and clean Git workflows including PRs and merge conflict resolution
 
-`Tech Tag` `Tech Tag` `Tech Tag`
+`Laravel` `React` `TypeScript` `Phinx` `Agile/Scrum`
+
+**Software Engineer · The Publishing House LTD**
+*Sep 2024 – Feb 2026*
+
+Built and maintained production RESTful APIs serving a growing user base within an Agile/Scrum team.
+
+- Built and maintained RESTful APIs using Node.js and Express serving **1,000+** monthly users, applying MVC architecture and SOLID principles
+- Optimized database queries, reducing API response time by **20%**
+- Implemented unit and performance testing achieving **85%** code coverage
+- Contributed to CI/CD pipelines and peer code reviews across Agile/Scrum sprints, ensuring code quality across the full SDLC
+
+`Node.js` `Express` `MVC` `SOLID` `CI/CD`
+
+**Software Engineer Intern · KeyOB PVT**
+*Jun 2024 – Aug 2024*
+
+- Developed backend services using Java Spring Boot and REST architecture, designing APIs consumed by web and mobile clients
+- Containerized microservices using Docker for consistent deployment; performed unit and load testing to validate scalability
+
+`Java` `Spring Boot` `REST` `Docker`
 
 ---
 
-## 🏆 Achievements
+## 🎓 Education
+
+**BS Software Engineering · FAST National University of Computer and Emerging Sciences**
+*Sep 2021 – Jun 2025*
+
+Relevant Courses: Data Structures, Algorithms, Object Oriented Programming, Databases, Advanced Programming, Discrete Structures, Linear Algebra, Probability and Statistics, Calculus, Android App Development, Human Computer Interaction.
+
+**Final Year Project — Smart Carpool Platform:** Designed and developed a full-stack carpooling web and mobile application using Node.js, MongoDB, Firebase, and React Native, with real-time location tracking and push notifications via WebSockets.
+
+---
+
+## 🏆 Achievements & Leadership
 
 <div align="center">
 
 | Recognition | Details |
 |---|---|
-| [Award / Recognition Name] | [Brief context] |
-| [Award / Recognition Name] | [Brief context] |
+| Assistant Head of Security — SOFTEC | FAST-NUCES Lahore's flagship software engineering event. Oversaw event security operations, coordinated team transitions, and ensured smooth execution across all event areas |
 
 </div>
+
+**Languages:** English (Professional) · Urdu (Native)
+
+> Your resume doesn't list formal awards/recognitions beyond this — add any hackathon wins, GitHub badges, or other recognitions here if you have them.
 
 ---
 
 ## 📜 Certifications
 
-**AWS**
-![AWS](https://img.shields.io/badge/-Your%20AWS%20Cert-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-Machine%20Learning%20A--Z%20(2026):%20ML,%20DL%20%26%20AI%20with%20AWS,%20Python%20%26%20R-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
 
-**Oracle**
-![Oracle](https://img.shields.io/badge/-Your%20Oracle%20Cert-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-The%20Ultimate%20React%20Course%202025:%20React,%20Next.js,%20Redux%20%26%20More-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
 
-**NPTEL**
-![NPTEL](https://img.shields.io/badge/-Your%20NPTEL%20Cert-4c1d95?style=for-the-badge)
+![Udemy](https://img.shields.io/badge/Udemy-Node.js,%20Express,%20MongoDB%20%26%20More:%20The%20Complete%20Bootcamp-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
 
-**Cisco**
-![Cisco](https://img.shields.io/badge/-Your%20Cisco%20Cert-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-*(Replace with your actual certification names/links)*
+![Udemy](https://img.shields.io/badge/Udemy-React%20Native%20--%20The%20Practical%20Guide-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
 
 ---
 
@@ -292,7 +323,7 @@ Open To:
 
 ## 📬 Connect
 
-[![Gmail](https://img.shields.io/badge/Gmail-4c1d95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-4c1d95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irahimsindhu@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahim-abbas-b5520b258/)
 [![GitHub](https://img.shields.io/badge/GitHub-5b21b6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahimAbbas55)
 [![X](https://img.shields.io/badge/X-3b0764?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/NotSypher101)
