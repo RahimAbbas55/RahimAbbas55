@@ -311,14 +311,6 @@ Relevant Courses: Data Structures, Algorithms, Object Oriented Programming, Data
 ![Snake animation](https://raw.githubusercontent.com/RahimAbbas55/RahimAbbas55/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
-> **This needs one-time setup — it's not a broken service, it just isn't created yet:**
-> 1. Create a new **public** repo named exactly `RahimAbbas55` (a repo matching your username — GitHub treats this as your special profile repo)
-> 2. Add this repo's `README.md` as that repo's README
-> 3. In that repo, create `.github/workflows/snake.yml` and paste in [this workflow file](computer:///mnt/user-data/outputs/snake.yml) (generated for you — it runs daily and on every push, and commits the SVG to an `output` branch)
-> 4. Go to the repo's **Settings → Actions → General → Workflow permissions** and set it to **Read and write permissions**, then run the workflow once manually from the **Actions** tab
-> 5. After it runs, the `output` branch will exist and the image above will render correctly
-
 ---
 
 ## 🎯 Current Focus
