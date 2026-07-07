@@ -269,11 +269,7 @@ Relevant Courses: Data Structures, Algorithms, Object Oriented Programming, Data
 
 <div align="center">
 
-![Profile Metrics](https://raw.githubusercontent.com/RahimAbbas55/RahimAbbas55/main/metrics.svg)
-
 ![Streak Stats](https://streak-stats.demolab.com/?user=RahimAbbas55&theme=radical&hide_border=true&background=0f0524&stroke=7c3aed&ring=a78bfa&fire=c4b5fd&currStreakLabel=e9d5ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahimAbbas55&theme=radical&hide_border=true&bg_color=0f0524&title_color=a78bfa&text_color=e9d5ff&layout=compact&include_all_commits=true&count_private=true)
 
 </div>
 
