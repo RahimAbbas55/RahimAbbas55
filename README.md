@@ -1,40 +1,309 @@
-# 💫 About Me:
-👋 Hey there! I'm Rahim<br>
-I'm a full-stack web & mobile developer who spends way too much time talking to APIs and convincing React Native to behave. I build things using MERN, Next.js, and React Native (Expo + CLI) — basically anything JavaScript touches, I'm in.<br>
+<div align="center">
 
-⚡ AI Automation Wizard (n8n edition)
-When I'm not coding, I'm busy automating anything that moves (and a few things that shouldn’t). If it can be automated in n8n, chances are I’ve already built a workflow for it.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:4c1d95,100:7c3aed&height=220&section=header&text=Rahim%20Abbas%20Sindhu&fontSize=44&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20AI%20Automation%20%7C%20Mobile%20Engineer&descAlignY=58&descAlign=50)
 
-🧠 LeetCode in my free time
-I occasionally battle LeetCode questions for fun… and sometimes they fight back.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Web+%26+Mobile+Developer;MERN+%2B+Next.js+%2B+React+Native;n8n+Automation+Architect;Turning+Ideas+Into+Shipped+Products" alt="Typing SVG" />
+</a>
 
-🤝 Let’s build something cool
-Have a project idea, need help, or just want to automate your life?
-Hit me up — always happy to collaborate!
+<br/>
 
-✨ Happy Coding!
+![Location](https://img.shields.io/badge/📍_Location-Gujranwala%2C_Pakistan-4c1d95?style=for-the-badge&labelColor=1e1033)
+![Degree](https://img.shields.io/badge/🎓_Focus-Software_Engineering-6d28d9?style=for-the-badge&labelColor=1e1033)
 
+<br/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/irahimsindhu)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahim_a404)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahim-abbas-b5520b258/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahim-abbas-b5520b258/)
+[![Email](https://img.shields.io/badge/Email-5b21b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahimAbbas55)
+[![X](https://img.shields.io/badge/X-3b0764?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/NotSypher101)
 
+<br/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RahimAbbas55&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RahimAbbas55&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RahimAbbas55&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+[![Profile Views](https://komarev.com/ghpvc/?username=RahimAbbas55&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/RahimAbbas55)
+[![Followers](https://img.shields.io/github/followers/RahimAbbas55?style=for-the-badge&color=6d28d9&labelColor=1e1033)](https://github.com/RahimAbbas55?tab=followers)
+[![Stars](https://img.shields.io/github/stars/RahimAbbas55?style=for-the-badge&color=a78bfa&labelColor=1e1033)](https://github.com/RahimAbbas55?tab=repositories)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RahimAbbas55&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RahimAbbas55&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RahimAbbas55&icon=0&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💜 About Me
+
+I'm a **full-stack web & mobile developer** who spends way too much time talking to APIs and convincing React Native to behave. I build with **MERN, Next.js, and React Native (Expo + CLI)** — basically anywhere JavaScript reaches, I'm there.
+
+- 🔭 Engineering full-stack products end-to-end — from schema design to pixel-perfect UI
+- ⚡ **AI Automation Architect** — if it can be automated in **n8n**, I've probably already built the workflow
+- 🧠 Sharpening problem-solving with **LeetCode** in my free time (and occasionally losing)
+- 🎯 Product-engineering mindset: I care about shipping things that actually work for real users
+- 🤝 Always open to interesting collaborations and automation challenges
+
+**Open To:** Full-Stack Roles · Mobile App Development · AI/Automation Consulting · Freelance Collaborations
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat-square&logo=chakraui&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
+
+**Backend & Databases**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Cloud, DevOps & Tooling**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+---
+
+## 🤖 AI / ML & Automation Expertise
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| Workflow Automation (n8n) | ⭐⭐⭐⭐⭐ | Designing multi-step automations connecting APIs, webhooks, and third-party services |
+| Data & ML Foundations | ⭐⭐⭐☆☆ | TensorFlow, PyTorch, scikit-learn, Keras for applied experimentation |
+| Data Analysis | ⭐⭐⭐⭐☆ | Pandas, NumPy, Matplotlib for data wrangling and visualization |
+| Computer Vision | ⭐⭐⭐☆☆ | OpenCV-based image processing workflows |
+
+---
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>🔹 Wild Oasis — Full-Stack Website (Next.js)</b></summary>
+
+A full-stack booking/management web app built with Next.js, covering both the customer-facing site and an internal dashboard.
+
+| Aspect | Detail |
+|---|---|
+| Stack | Next.js, React, Node.js |
+| Repository | [View Repo](https://github.com/RahimAbbas55/Wild-Oasis-Full-Stack-Website-Using-Next-Js) |
+
+*Add your own scale, performance, and impact notes here.*
+
+</details>
+
+<details>
+<summary><b>🔹 Wild Oasis — React Native Companion App</b></summary>
+
+The mobile counterpart to the Wild Oasis platform, built with React Native.
+
+| Aspect | Detail |
+|---|---|
+| Stack | React Native (Expo) |
+| Repository | [View Repo](https://github.com/RahimAbbas55/Wild-Oasis-RN) |
+
+*Add your own scale, performance, and impact notes here.*
+
+</details>
+
+<details>
+<summary><b>🔹 Natours — Node.js, Express & MongoDB</b></summary>
+
+A tour-booking website built on the classic Node/Express/MongoDB stack, covering REST APIs, auth, and server-rendered views.
+
+| Aspect | Detail |
+|---|---|
+| Stack | Node.js, Express, MongoDB, Pug |
+| Repository | [View Repo](https://github.com/RahimAbbas55/Natours-Website-Using-Node-JS-Express-and-MongoDB) |
+
+*Add your own scale, performance, and impact notes here.*
+
+</details>
+
+<details>
+<summary><b>🔹 Smart Carpool</b></summary>
+
+A carpooling application project.
+
+| Aspect | Detail |
+|---|---|
+| Stack | JavaScript |
+| Repository | [View Repo](https://github.com/RahimAbbas55/Smart-Carpool) |
+
+*Add your own scale, performance, and impact notes here.*
+
+</details>
+
+<details>
+<summary><b>🔹 LeetCode Solutions</b></summary>
+
+An ongoing collection of solved LeetCode problems, showcasing consistent algorithmic practice.
+
+| Aspect | Detail |
+|---|---|
+| Stack | JavaScript |
+| Repository | [View Repo](https://github.com/RahimAbbas55/LeetCode-Solutions) |
+
+</details>
+
+> These are pulled from your pinned repos. Fill in the Scale / Performance / Security / Impact rows with real numbers where you have them — I left them open rather than inventing metrics.
+
+---
+
+## 💼 Experience
+
+**[Job Title] · [Company Name]**
+*[Month Year] – [Month Year / Present]*
+
+Professional description of your role and focus area.
+
+- Scope of work bullet point one
+- Scope of work bullet point two
+- Scope of work bullet point three
+
+`Tech Tag` `Tech Tag` `Tech Tag`
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| [Award / Recognition Name] | [Brief context] |
+| [Award / Recognition Name] | [Brief context] |
+
+</div>
+
+---
+
+## 📜 Certifications
+
+**AWS**
+![AWS](https://img.shields.io/badge/-Your%20AWS%20Cert-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**Oracle**
+![Oracle](https://img.shields.io/badge/-Your%20Oracle%20Cert-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**NPTEL**
+![NPTEL](https://img.shields.io/badge/-Your%20NPTEL%20Cert-4c1d95?style=for-the-badge)
+
+**Cisco**
+![Cisco](https://img.shields.io/badge/-Your%20Cisco%20Cert-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+*(Replace with your actual certification names/links)*
+
+---
+
+## 💻 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-your--handle-2F1F4C?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-your--handle-2F1F4C?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46)](https://www.geeksforgeeks.org/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-your--handle-2F1F4C?style=for-the-badge&logo=hackerrank&logoColor=00EA64)](https://www.hackerrank.com/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-your--handle-2F1F4C?style=for-the-badge&logo=codechef&logoColor=5B4638)](https://www.codechef.com/)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahimAbbas55&theme=radical&hide_border=true&bg_color=0f0524&title_color=a78bfa&icon_color=7c3aed&text_color=e9d5ff&include_all_commits=true&count_private=true)
+
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=RahimAbbas55&theme=radical&hide_border=true&background=0f0524&stroke=7c3aed&ring=a78bfa&fire=c4b5fd&currStreakLabel=e9d5ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahimAbbas55&theme=radical&hide_border=true&bg_color=0f0524&title_color=a78bfa&text_color=e9d5ff&layout=compact&include_all_commits=true&count_private=true)
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=RahimAbbas55&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RahimAbbas55&theme=react-dark&bg_color=0f0524&color=a78bfa&line=7c3aed&point=e9d5ff&area=true&hide_border=true)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/RahimAbbas55/RahimAbbas55/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+> Generate this via the [platane/snk](https://github.com/Platane/snk) GitHub Action in your profile repo.
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+Learning:
+  - Advanced system design patterns
+  - Scaling n8n automation workflows for production
+Building:
+  - Full-stack products with MERN + Next.js
+  - Cross-platform apps with React Native
+Exploring:
+  - AI-driven workflow automation
+  - Performance optimization at scale
+Open To:
+  - Full-time roles
+  - Freelance & contract collaborations
+```
+
+---
+
+## 📬 Connect
+
+[![Gmail](https://img.shields.io/badge/Gmail-4c1d95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahim-abbas-b5520b258/)
+[![GitHub](https://img.shields.io/badge/GitHub-5b21b6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahimAbbas55)
+[![X](https://img.shields.io/badge/X-3b0764?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/NotSypher101)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
+
+---
+
+<div align="center">
+
+*"Code is easy. Convincing React Native to behave is the real engineering challenge."*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4c1d95,100:0f0524&height=120&section=footer)
+
+</div>
