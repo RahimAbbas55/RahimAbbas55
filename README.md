@@ -13,7 +13,6 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahim-abbas-b5520b258/)
 [![Email](https://img.shields.io/badge/Email-5b21b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irahimsindhu@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahimAbbas55)
@@ -29,7 +28,7 @@
 
 ---
 
-## 💜 About Me
+## 💻 About Me
 
 I'm a **Full Stack Software Engineer** with 2+ years of professional experience (since Jun 2024) designing and shipping web applications using **Laravel, React, Node.js, and Java** across the full SDLC. Track record of building production RESTful APIs, scalable data pipelines, and responsive user interfaces across SaaS, publishing, and enterprise domains.
 
@@ -246,8 +245,6 @@ Relevant Courses: Data Structures, Algorithms, Object Oriented Programming, Data
 
 **Languages:** English (Professional) · Urdu (Native)
 
-> Your resume doesn't list formal awards/recognitions beyond this — add any hackathon wins, GitHub badges, or other recognitions here if you have them.
-
 ---
 
 ## 📜 Certifications
@@ -282,15 +279,15 @@ Relevant Courses: Data Structures, Algorithms, Object Oriented Programming, Data
 
 ---
 
-## 🏅 GitHub Trophies
+## 🏅 GitHub Snapshot
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=RahimAbbas55&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRahimAbbas55&query=%24.public_repos&label=Public%20Repos&color=7c3aed&style=for-the-badge&labelColor=1e1033)
+![Followers](https://img.shields.io/github/followers/RahimAbbas55?style=for-the-badge&color=6d28d9&labelColor=1e1033&label=Followers)
+![Account Age](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRahimAbbas55&query=%24.created_at&label=Joined%20GitHub&color=a78bfa&style=for-the-badge&labelColor=1e1033)
 
 </div>
-
-> This runs on the same kind of shared public Vercel instance, so it can go down the same way. If it stays broken, [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) can also be self-hosted the same way as github-readme-stats above — fork it, deploy to your own Vercel project, and swap the domain in the badge URL.
 
 ---
 
@@ -311,6 +308,7 @@ Relevant Courses: Data Structures, Algorithms, Object Oriented Programming, Data
 ![Snake animation](https://raw.githubusercontent.com/RahimAbbas55/RahimAbbas55/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
 ---
 
 ## 🎯 Current Focus
@@ -342,8 +340,6 @@ Open To:
 ---
 
 <div align="center">
-
-*"Code is easy. Convincing React Native to behave is the real engineering challenge."*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4c1d95,100:0f0524&height=120&section=footer)
 
