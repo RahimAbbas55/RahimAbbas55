@@ -99,15 +99,30 @@ I'm a **Full Stack Software Engineer** with 2+ years of professional experience 
 
 ## 🤖 AI / ML & Automation Expertise
 
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| Workflow Automation (n8n) | ⭐⭐⭐⭐⭐ | Designing multi-step automations connecting APIs, webhooks, and third-party services |
-| AI-Integrated Backend Systems | ⭐⭐⭐⭐☆ | Built BizLaunch Suite — a Node.js/Supabase backend handling concurrent OpenAI API requests with low latency |
-| ML Foundations | ⭐⭐⭐☆☆ | Completed Udemy's Machine Learning A-Z (2026): ML, DL & AI with AWS, Python & R |
+| Domain | Details |
+|---|---|
+| Workflow Automation (n8n) | Designing multi-step automations connecting APIs, webhooks, and third-party services |
+| AI-Integrated Backend Systems  | Built BizLaunch Suite — a Node.js/Supabase backend handling concurrent OpenAI API requests with low latency |
+| ML Foundations | Completed Udemy's Machine Learning A-Z (2026): ML, DL & AI with AWS, Python & R |
 
 ---
 
 ## 🚀 Featured Projects
+
+<details>
+<summary><b>🔹 Serverless Notification System + Dashboard</b> <em>(Current)</em></summary>
+
+A production-style multi-channel alerting system on AWS Lambda, paired with a React dashboard for sending alerts, viewing logs, and replaying failed messages.
+
+| Aspect | Detail |
+|---|---|
+| Stack | Python 3.12, AWS Lambda, API Gateway, SES, CloudWatch — React 18 + Vite + TypeScript dashboard |
+| Architecture | API Gateway → Lambda → validator → router → AWS SES (email) / Slack webhook, with per-channel fault isolation so one failing channel doesn't block the other |
+| Features | Multi-channel alerts (email/Slack/both), 4 severity levels with distinct styling, Dead Letter Queue inspection + one-click replay, live CloudWatch log viewer |
+| Cost | Runs entirely within AWS free tier — $0 idle cost, Lambda only charges on invocation |
+| Repositories | [Backend](https://github.com/RahimAbbas55/Serverless-Notification-System) · [Dashboard](https://github.com/RahimAbbas55/Serverless-Notifier-Dashboard) |
+
+</details>
 
 <details>
 <summary><b>🔹 BizLaunch Suite — AI SaaS Platform</b></summary>
@@ -262,11 +277,18 @@ Relevant Courses: Data Structures, Algorithms, Object Oriented Programming, Data
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahimAbbas55&theme=radical&hide_border=true&bg_color=0f0524&title_color=a78bfa&icon_color=7c3aed&text_color=e9d5ff&include_all_commits=true&count_private=true)
 
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=RahimAbbas55&theme=radical&hide_border=true&background=0f0524&stroke=7c3aed&ring=a78bfa&fire=c4b5fd&currStreakLabel=e9d5ff)
+![Streak Stats](https://streak-stats.demolab.com/?user=RahimAbbas55&theme=radical&hide_border=true&background=0f0524&stroke=7c3aed&ring=a78bfa&fire=c4b5fd&currStreakLabel=e9d5ff)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahimAbbas55&theme=radical&hide_border=true&bg_color=0f0524&title_color=a78bfa&text_color=e9d5ff&layout=compact&include_all_commits=true&count_private=true)
 
 </div>
+
+> **Why these sometimes don't render:** the public `github-readme-stats.vercel.app` demo server is shared by everyone on GitHub and frequently gets rate-limited or goes down (this is a widely-reported, ongoing issue — not something wrong in this file). For a reliable, always-up version, self-host your own free copy:
+> 1. Fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+> 2. Import the fork into [Vercel](https://vercel.com) (free tier)
+> 3. In the Vercel project settings, add an environment variable `PAT_1` set to a [GitHub personal access token](https://github.com/settings/tokens) (no expiration, `repo` scope) — this raises your rate limit massively
+> 4. Vercel gives you a URL like `your-project.vercel.app` — swap that in for `github-readme-stats.vercel.app` in the badge URLs above
+> The streak-stats badge above already uses `streak-stats.demolab.com`, a more stable mirror, so it should be more reliable than the default `.vercel.app` one.
 
 ---
 
@@ -277,6 +299,8 @@ Relevant Courses: Data Structures, Algorithms, Object Oriented Programming, Data
 ![Trophies](https://github-profile-trophy.vercel.app/?username=RahimAbbas55&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
+
+> This runs on the same kind of shared public Vercel instance, so it can go down the same way. If it stays broken, [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) can also be self-hosted the same way as github-readme-stats above — fork it, deploy to your own Vercel project, and swap the domain in the badge URL.
 
 ---
 
@@ -298,7 +322,12 @@ Relevant Courses: Data Structures, Algorithms, Object Oriented Programming, Data
 
 </div>
 
-> Generate this via the [platane/snk](https://github.com/Platane/snk) GitHub Action in your profile repo.
+> **This needs one-time setup — it's not a broken service, it just isn't created yet:**
+> 1. Create a new **public** repo named exactly `RahimAbbas55` (a repo matching your username — GitHub treats this as your special profile repo)
+> 2. Add this repo's `README.md` as that repo's README
+> 3. In that repo, create `.github/workflows/snake.yml` and paste in [this workflow file](computer:///mnt/user-data/outputs/snake.yml) (generated for you — it runs daily and on every push, and commits the SVG to an `output` branch)
+> 4. Go to the repo's **Settings → Actions → General → Workflow permissions** and set it to **Read and write permissions**, then run the workflow once manually from the **Actions** tab
+> 5. After it runs, the `output` branch will exist and the image above will render correctly
 
 ---
 
@@ -327,7 +356,6 @@ Open To:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahim-abbas-b5520b258/)
 [![GitHub](https://img.shields.io/badge/GitHub-5b21b6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahimAbbas55)
 [![X](https://img.shields.io/badge/X-3b0764?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/NotSypher101)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
 
 ---
 
