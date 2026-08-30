@@ -1,9 +1,9 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:4c1d95,100:7c3aed&height=220&section=header&text=Rahim%20Abbas%20Sindhu&fontSize=44&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20AI%20Automation%20%7C%20Mobile%20Engineer&descAlignY=58&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:4c1d95,100:7c3aed&height=220&section=header&text=Rahim%20Abbas%20Sindhu&fontSize=44&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Data%20%26%20AI%20Systems%20%7C%20Automation&descAlignY=58&descAlign=50)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Web+%26+Mobile+Developer;MERN+%2B+Next.js+%2B+React+Native;n8n+Automation+Architect;Turning+Ideas+Into+Shipped+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+Web+%26+Mobile+Developer;Building+Production+ML+%2B+RAG+Systems;MERN+%2B+Next.js+%2B+FastAPI+%2B+XGBoost;n8n+Automation+Architect" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -30,44 +30,51 @@
 
 ## 💻 About Me
 
-I'm a **Full Stack Software Engineer** with 2+ years of professional experience (since Jun 2024) designing and shipping web applications using **Laravel, React, Node.js, and Java** across the full SDLC. Track record of building production RESTful APIs, scalable data pipelines, and responsive user interfaces across SaaS, publishing, and enterprise domains.
+I'm a **Full-Stack Software Engineer** with 2+ years of professional experience shipping production web applications across **Laravel, React, Node.js, and Java** — and I'm currently building a parallel track in **data science and applied ML**, with a focus on production-grade systems for fintech: credit risk modeling, real-time fraud detection, and retrieval-augmented generation over regulatory documents.
 
-- 🔭 Comfortable across the entire stack — from database schema design and backend logic to React frontends, CI/CD, and cloud deployment
+- 🎯 Actively building a portfolio of deployed ML/AI systems targeting data-driven fintech roles — full engineering rigor, not just notebooks: Docker, CI/CD, cloud deployment, and observability at every stage
+- 🔭 Comfortable across the entire stack — from database schema design and backend logic to React frontends, model serving, and cloud infrastructure
 - ⚡ **AI Automation Architect** — if it can be automated in **n8n**, I've probably already built the workflow
-- 🧠 Sharpening problem-solving with **LeetCode** in my free time (and occasionally losing)
-- 🎯 BS Software Engineering graduate from FAST-NUCES, Lahore
-- 🤝 Always open to interesting collaborations and automation challenges
+- 🧠 Currently exploring **agentic AI systems** (MCP, function calling) and expanding into **GCP + Terraform**
+- 🎓 BS Software Engineering graduate from FAST-NUCES, Lahore
 
-**Open To:** Full-Stack Roles · Backend Engineering · Mobile App Development · AI/Automation Consulting · Freelance Collaborations
+**Open To:** Data Science & ML Engineering Roles · Full-Stack Roles · Backend Engineering · AI/Automation Consulting
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages**
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Data Science & ML**
+![XGBoost](https://img.shields.io/badge/XGBoost-EC0000?style=flat-square&logo=xgboost&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
 **Backend**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-000000?style=flat-square&logo=fastapi&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-4c1d95?style=flat-square)
 
 **Frontend**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
-![Pug](https://img.shields.io/badge/Pug-FFF?style=flat-square&logo=pug&logoColor=A86454)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
 **Databases**
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
@@ -75,50 +82,109 @@ I'm a **Full Stack Software Engineer** with 2+ years of professional experience 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 
-**Architecture & Testing**
-![OOP](https://img.shields.io/badge/OOP-4c1d95?style=flat-square)
-![MVC](https://img.shields.io/badge/MVC-4c1d95?style=flat-square)
-![SOLID](https://img.shields.io/badge/SOLID-4c1d95?style=flat-square)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
-
-**Cloud, DevOps & Tooling**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+**Cloud, DevOps & Infra**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![OAuth](https://img.shields.io/badge/OAuth_2.0-4c1d95?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🤖 AI / ML & Automation Expertise
+## 📊 Data Science & AI Portfolio
 
-| Domain | Details |
+Production-grade ML and AI systems — deployed, tested, and documented end to end, not just notebooks.
+
+<details open>
+<summary><b>🔹 RegRadar — Production RAG System for UK FCA Regulation</b></summary>
+
+A retrieval-augmented generation system for querying the UK FCA Handbook (SYSC sourcebook), built with production RAG techniques rather than a naive vector-search wrapper.
+
+| Aspect | Detail |
 |---|---|
-| Workflow Automation (n8n) | Designing multi-step automations connecting APIs, webhooks, and third-party services |
-| AI-Integrated Backend Systems  | Built BizLaunch Suite — a Node.js/Supabase backend handling concurrent OpenAI API requests with low latency |
-| ML Foundations | Completed Udemy's Machine Learning A-Z (2026): ML, DL & AI with AWS, Python & R |
+| Retrieval | Hybrid dense (Qdrant) + BM25 search fused with RRF, plus cross-encoder reranking |
+| Generation | gpt-4o for answers, gpt-4o-mini for query rewriting, citation-grounded streaming responses |
+| Evaluation | RAGAS framework for retrieval/generation quality scoring |
+| Design decision | Explicit out-of-scope refusal instead of hallucinating — treated as a first-class feature, not a limitation |
+| Stack | FastAPI, Qdrant, OpenAI embeddings, React + TypeScript, SQLite-backed rate limiting |
+| Infra | Docker, AWS ECR + EC2 + S3 + CloudFront, GitHub Actions CI/CD |
+| Live | [regradar.app](https://d2wwendushtv6i.cloudfront.net) · [Repo](https://github.com/RahimAbbas55/RegRadar) |
 
----
-
-## 🚀 Featured Projects
+</details>
 
 <details>
-<summary><b>🔹 Serverless Notification System + Dashboard</b> <em>(Current)</em></summary>
+<summary><b>🔹 Fraud-Radar-ML — Real-Time Fraud Detection</b></summary>
+
+A real-time transaction fraud detection system modeled on Stripe Radar's approach to streaming risk scoring.
+
+| Aspect | Detail |
+|---|---|
+| Model | XGBoost classifier with SHAP for per-transaction explainability |
+| Pipeline | Kafka for streaming transaction ingestion, FastAPI for real-time scoring |
+| Infra | Docker, AWS EC2 + ECR |
+| Repository | [View Repo](https://github.com/RahimAbbas55/Fraud-Radar-ML) |
+
+</details>
+
+<details>
+<summary><b>🔹 Credit-Risk-ML-Pipeline — Default Risk Prediction</b></summary>
+
+An end-to-end credit risk model trained on the Home Credit Default Risk dataset, served as a production API.
+
+| Aspect | Detail |
+|---|---|
+| Model | XGBoost trained on the Home Credit Default Risk dataset |
+| Serving | FastAPI wrapping the trained model behind a REST endpoint |
+| Infra | Docker, AWS EC2 + ECR, GitHub Actions CI/CD |
+| Repository | [View Repo](https://github.com/RahimAbbas55/Credit-Risk-ML-Pipeline) |
+
+</details>
+
+<details>
+<summary><b>🔹 UK Tech Job Analyzer</b></summary>
+
+A live dashboard analyzing the UK tech job market using real job posting data.
+
+| Aspect | Detail |
+|---|---|
+| Data | Reed API, refreshed automatically |
+| Stack | Streamlit |
+| Automation | GitHub Actions for scheduled data refresh and app keepalive |
+| Live | [uk-tech-job-analyzer-ks.streamlit.app](https://uk-tech-job-analyzer-ks.streamlit.app) · [Repo](https://github.com/RahimAbbas55/UK-Tech-Job-Analyzer) |
+
+</details>
+
+<details>
+<summary><b>🔹 MarketRadar — MCP-Powered Investment Research Agent</b> <em>(in progress)</em></summary>
+
+An AI agent that answers natural-language investment research questions by autonomously chaining tool calls across live market data.
+
+| Aspect | Detail |
+|---|---|
+| Agent | OpenAI (gpt-4o) function calling orchestrating tool use over a live MCP server |
+| Tools | Price/volatility/RSI/moving averages, news search, company fundamentals, multi-ticker comparison |
+| Protocol | Built on **MCP (Model Context Protocol)** — tools exposed via the official MCP SDK, not ad-hoc function wiring |
+| Infra (in progress) | GCP (Cloud Run, Artifact Registry, Secret Manager) provisioned via Terraform |
+| Repository | [View Repo](https://github.com/RahimAbbas55/MarketRadar) |
+
+</details>
+
+---
+
+## 🚀 Full-Stack Projects
+
+<details>
+<summary><b>🔹 Serverless Notification System + Dashboard</b></summary>
 
 A production-style multi-channel alerting system on AWS Lambda, paired with a React dashboard for sending alerts, viewing logs, and replaying failed messages.
 
 | Aspect | Detail |
 |---|---|
 | Stack | Python 3.12, AWS Lambda, API Gateway, SES, CloudWatch — React 18 + Vite + TypeScript dashboard |
-| Architecture | API Gateway → Lambda → validator → router → AWS SES (email) / Slack webhook, with per-channel fault isolation so one failing channel doesn't block the other |
-| Features | Multi-channel alerts (email/Slack/both), 4 severity levels with distinct styling, Dead Letter Queue inspection + one-click replay, live CloudWatch log viewer |
-| Cost | Runs entirely within AWS free tier — $0 idle cost, Lambda only charges on invocation |
+| Architecture | API Gateway → Lambda → validator → router → AWS SES (email) / Slack webhook, with per-channel fault isolation |
+| Features | Multi-channel alerts (email/Slack/both), 4 severity levels, Dead Letter Queue inspection + one-click replay, live CloudWatch log viewer |
+| Cost | Runs entirely within AWS free tier |
 | Repositories | [Backend](https://github.com/RahimAbbas55/Serverless-Notification-System) · [Dashboard](https://github.com/RahimAbbas55/Serverless-Notifier-Dashboard) |
 
 </details>
@@ -131,9 +197,8 @@ An AI-powered SaaS platform for launching businesses, built on Next.js with a Su
 | Aspect | Detail |
 |---|---|
 | Stack | Next.js, Node.js, Supabase, OpenAI API |
-| Performance | Scalable Node.js backend + serverless Supabase Edge Functions handling concurrent AI-driven requests with low-latency responses |
+| Performance | Serverless Supabase Edge Functions handling concurrent AI-driven requests with low-latency responses |
 | Security | JWT-based authentication following OAuth 2.0 standards |
-| Year | 2025 |
 
 </details>
 
@@ -145,8 +210,7 @@ A distributed task scheduling system built for persistent, efficient task manage
 | Aspect | Detail |
 |---|---|
 | Stack | Node.js, Redis, PostgreSQL |
-| Architecture | Redis sorted sets used as priority queues; PostgreSQL with indexing for persistent, queryable task storage |
-| Year | 2024 |
+| Architecture | Redis sorted sets as priority queues; PostgreSQL with indexing for persistent, queryable task storage |
 
 </details>
 
@@ -158,30 +222,26 @@ A full-stack carpooling web and mobile application — ride matching, geolocatio
 | Aspect | Detail |
 |---|---|
 | Stack | Node.js, Express, MongoDB, Firebase, React Native |
-| Features | RESTful APIs for ride matching, user management, and real-time push notifications via WebSockets; MongoDB schemas optimized for geospatial queries |
-| Integration | Firebase for real-time data sync and auth, enabling seamless cross-platform sessions on the React Native client |
+| Features | RESTful APIs for ride matching and real-time push notifications via WebSockets; MongoDB schemas optimized for geospatial queries |
 | Repository | [View Repo](https://github.com/RahimAbbas55/Smart-Carpool) |
-| Year | 2024–2025 |
 
 </details>
 
 <details>
-<summary><b>🔹 Natours — Full Stack Tour Booking Platform</b></summary>
+<summary><b>🔹 Natours — Full-Stack Tour Booking Platform</b></summary>
 
 A full-stack MVC tour-booking application with role-based access and payment processing.
 
 | Aspect | Detail |
 |---|---|
 | Stack | Node.js, Express.js, MongoDB, Pug, Stripe API |
-| Security | JWT auth, role-based access control (user, guide, lead-guide, admin), rate limiting, XSS protection, data sanitization (helmet, xss-clean, hpp) |
-| Features | Stripe payment integration for bookings, image upload/processing via Multer and Sharp |
-| Data | MongoDB schemas for Users, Tours, Reviews, and Bookings via Mongoose, deployed on MongoDB Atlas |
+| Security | JWT auth, role-based access control, rate limiting, XSS protection, data sanitization |
+| Features | Stripe payment integration, image upload/processing via Multer and Sharp |
 | Repository | [View Repo](https://github.com/RahimAbbas55/Natours-Website-Using-Node-JS-Express-and-MongoDB) |
-| Year | 2024 |
 
 </details>
 
-> All personal and academic projects are available at [github.com/RahimAbbas55](https://github.com/RahimAbbas55).
+> All projects are available at [github.com/RahimAbbas55](https://github.com/RahimAbbas55).
 
 ---
 
@@ -196,7 +256,7 @@ Building full-stack web application features spanning the entire request lifecyc
 - Contributed to a patient encounters module, building and integrating React components into an existing multi-page frontend application
 - Authored and managed Phinx database migration scripts for schema changes, resolving duplicate migration conflicts and ensuring safe rollouts across environments
 - Translated detailed functional specifications into application logic, implementing complex business rules with clearly defined inclusion/exclusion criteria in Laravel
-- Worked within an Agile/Scrum team — sprint planning, daily standups, code reviews, and clean Git workflows including PRs and merge conflict resolution
+- Worked within an Agile/Scrum team — sprint planning, daily standups, code reviews, and clean Git workflows
 
 `Laravel` `React` `TypeScript` `Phinx` `Agile/Scrum`
 
@@ -208,7 +268,7 @@ Built and maintained production RESTful APIs serving a growing user base within 
 - Built and maintained RESTful APIs using Node.js and Express serving **1,000+** monthly users, applying MVC architecture and SOLID principles
 - Optimized database queries, reducing API response time by **20%**
 - Implemented unit and performance testing achieving **85%** code coverage
-- Contributed to CI/CD pipelines and peer code reviews across Agile/Scrum sprints, ensuring code quality across the full SDLC
+- Contributed to CI/CD pipelines and peer code reviews across Agile/Scrum sprints
 
 `Node.js` `Express` `MVC` `SOLID` `CI/CD`
 
@@ -229,19 +289,13 @@ Built and maintained production RESTful APIs serving a growing user base within 
 
 Relevant Courses: Data Structures, Algorithms, Object Oriented Programming, Databases, Advanced Programming, Discrete Structures, Linear Algebra, Probability and Statistics, Calculus, Android App Development, Human Computer Interaction.
 
-**Final Year Project — Smart Carpool Platform:** Designed and developed a full-stack carpooling web and mobile application using Node.js, MongoDB, Firebase, and React Native, with real-time location tracking and push notifications via WebSockets.
+**Final Year Project — Smart Carpool Platform:** Full-stack carpooling web and mobile application using Node.js, MongoDB, Firebase, and React Native, with real-time location tracking and push notifications via WebSockets.
 
 ---
 
-## 🏆 Achievements & Leadership
+## 🏆 Leadership & Languages
 
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| Assistant Head of Security — SOFTEC | FAST-NUCES Lahore's flagship software engineering event. Oversaw event security operations, coordinated team transitions, and ensured smooth execution across all event areas |
-
-</div>
+**Assistant Head of Security — SOFTEC**, FAST-NUCES Lahore's flagship software engineering event. Oversaw event security operations, coordinated team transitions, and ensured smooth execution across all event areas.
 
 **Languages:** English (Professional) · Urdu (Native)
 
@@ -250,11 +304,8 @@ Relevant Courses: Data Structures, Algorithms, Object Oriented Programming, Data
 ## 📜 Certifications
 
 ![Udemy](https://img.shields.io/badge/Udemy-Machine%20Learning%20A--Z%20(2026):%20ML,%20DL%20%26%20AI%20with%20AWS,%20Python%20%26%20R-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
-
 ![Udemy](https://img.shields.io/badge/Udemy-The%20Ultimate%20React%20Course%202025:%20React,%20Next.js,%20Redux%20%26%20More-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
-
 ![Udemy](https://img.shields.io/badge/Udemy-Node.js,%20Express,%20MongoDB%20%26%20More:%20The%20Complete%20Bootcamp-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
-
 ![Udemy](https://img.shields.io/badge/Udemy-React%20Native%20--%20The%20Practical%20Guide-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
 
 ---
@@ -271,16 +322,6 @@ Relevant Courses: Data Structures, Algorithms, Object Oriented Programming, Data
 
 ![Streak Stats](https://streak-stats.demolab.com/?user=RahimAbbas55&theme=radical&hide_border=true&background=0f0524&stroke=7c3aed&ring=a78bfa&fire=c4b5fd&currStreakLabel=e9d5ff)
 
-</div>
-
----
-
-## 🏅 GitHub Snapshot
-
-<div align="center">
-
-![Public Repos](https://img.shields.io/badge/Public_Repos-View_on_GitHub-7c3aed?style=for-the-badge&labelColor=1e1033)
-![Followers](https://img.shields.io/github/followers/RahimAbbas55?style=for-the-badge&color=6d28d9&labelColor=1e1033&label=Followers)
 ![Account Age](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRahimAbbas55&query=%24.created_at&label=Joined%20GitHub&color=a78bfa&style=for-the-badge&labelColor=1e1033)
 
 </div>
@@ -300,17 +341,18 @@ Relevant Courses: Data Structures, Algorithms, Object Oriented Programming, Data
 ## 🎯 Current Focus
 
 ```yaml
-Learning:
-  - Advanced system design patterns
-  - Scaling n8n automation workflows for production
 Building:
-  - Full-stack products with MERN + Next.js
-  - Cross-platform apps with React Native
+  - MarketRadar — an MCP-powered AI agent for investment research
+  - A production ML/AI portfolio targeting UK fintech data roles
+Learning:
+  - GCP + Terraform (multi-environment infra, remote state, modules)
+  - Agentic AI systems — MCP, multi-agent orchestration
 Exploring:
-  - AI-driven workflow automation
-  - Performance optimization at scale
+  - Retrieval-augmented generation and hybrid search at production quality
+  - Real-time ML systems (streaming, low-latency scoring)
 Open To:
-  - Full-time roles
+  - Data Science & ML Engineering roles
+  - Full-time full-stack roles
   - Freelance & contract collaborations
 ```
 
